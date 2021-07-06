@@ -1,5 +1,5 @@
 
-# 使用结构管理 UserDefault，减少 UserDefaultKey
+# 使用类或结构体减少UserDefaultKey
 
 ## 场景
 
